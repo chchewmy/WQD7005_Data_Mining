@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,Location,MembershipLevel,TotalPurchases,TotalSpent,FavoriteCategory,LastPurchaseDate,Occupation,FrequencyOfWebsiteVisits,Churn
+1,52,Male,South,Silver,2,124,Home Goods,15/4/2022,Doctor,10,1
+2,39,Other,West,Silver,5,531,Books,26/12/2022,Teacher,13,0
+3,44,Other,South,Gold,7,378,Home Goods,23/11/2023,Manager,8,0
+4,57,Other,South,Gold,4,690,Electronics,18/9/2022,Engineer,10,0
+5,53,Female,East,Gold,6,37,Health & Beauty,15/12/2023,Artist,5,0
+6,25,Female,Central,Bronze,11,243,Home Goods,20/7/2022,Teacher,15,0
+7,44,Female,North,Platinum,6,577,Electronics,15/1/2023,Retail,12,0
+8,33,Female,Central,Gold,4,675,Clothing,13/6/2023,Retail,7,0
+9,33,Male,East,Gold,2,235,Clothing,16/6/2023,Engineer,8,1
+10,39,Female,South,Silver,5,15,Clothing,6/7/2023,Teacher,14,0
+11,36,Female,North,Bronze,5,76,Home Goods,21/12/2023,Retail,3,0
+12,49,Other,West,Gold,9,1,Electronics,25/6/2023,Manager,12,0
+13,42,Female,West,Gold,2,29,Health & Beauty,15/10/2023,Engineer,9,1
+14,36,Male,South,Bronze,6,607,Clothing,28/5/2023,Retail,13,0
+15,39,Male,Central,Gold,3,261,Clothing,4/6/2023,Engineer,16,0
+16,38,Other,Central,Silver,9,486,Electronics,1/3/2023,Engineer,17,0
+17,49,Male,North,Bronze,8,236,Health & Beauty,22/10/2022,Artist,10,0
+18,32,Female,East,Platinum,0,537,Health & Beauty,30/3/2023,Doctor,8,0
+19,38,Female,Central,Platinum,10,1251,Home Goods,10/12/2022,Unemployed,14,0
+20,26,Male,West,Gold,5,346,Home Goods,20/8/2023,Engineer,14,0
+21,9,Male,West,Silver,5,99,Electronics,10/10/2023,Engineer,4,0
+22,41,Female,West,Bronze,5,861,Home Goods,29/10/2023,Teacher,7,0
+23,43,Other,Central,Gold,4,127,Clothing,14/11/2023,Manager,7,0
+24,27,Female,South,Gold,3,7,Health & Beauty,13/8/2022,Retail,12,0
+25,57,Other,Central,Gold,7,204,Health & Beauty,20/6/2023,Artist,11,0
+26,20,Other,Central,Silver,5,643,Electronics,4/1/2023,Unemployed,10,0
+27,35,Male,North,Bronze,6,196,Electronics,16/1/2023,Doctor,9,0
+28,33,Other,East,Silver,3,2304,Home Goods,6/2/2022,Unemployed,6,0
+29,50,Female,Central,Gold,6,352,Electronics,2/11/2022,Engineer,17,0
+30,49,Female,Central,Silver,2,37,Electronics,24/10/2022,Artist,8,1
+31,36,Male,East,Gold,10,183,Clothing,18/9/2022,Retail,10,0
+32,38,Other,West,Silver,3,183,Home Goods,11/12/2023,Engineer,7,0
+33,26,Female,East,Silver,4,397,Books,10/10/2023,Artist,10,0
+34,15,Other,Central,Bronze,6,43,Clothing,5/8/2022,Engineer,10,0
+35,31,Female,South,Bronze,7,1496,Books,12/7/2022,Doctor,9,0
+36,36,Female,North,Gold,7,267,Home Goods,19/8/2023,Unemployed,9,0
+37,47,Female,North,Bronze,5,1575,Home Goods,14/9/2023,Teacher,11,0
+38,47,Female,East,Silver,2,1406,Health & Beauty,13/12/2023,Artist,9,0
+39,31,Male,East,Silver,8,158,Health & Beauty,24/9/2022,Engineer,10,0
+40,31,Male,West,Gold,1,173,Electronics,26/10/2023,Retail,9,1
+41,24,Other,North,Bronze,7,505,Books,19/2/2023,Teacher,8,0
+42,20,Other,East,Bronze,6,242,Electronics,12/5/2023,Doctor,10,0
+43,17,Male,Central,Gold,5,200,Home Goods,10/4/2022,Retail,10,0
+44,54,Female,Central,Gold,5,526,Home Goods,30/9/2022,Teacher,6,0
+45,29,Other,South,Gold,2,136,Electronics,9/2/2023,Unemployed,10,1
+46,30,Other,South,Bronze,5,113,Books,31/1/2023,Doctor,15,0
+47,22,Male,East,Silver,6,177,Home Goods,5/6/2022,Teacher,9,0
+48,42,Other,West,Silver,4,454,Health & Beauty,30/5/2023,Teacher,6,0
+49,18,Male,West,Silver,7,102,Health & Beauty,13/9/2022,Artist,10,0
+50,32,Female,West,Platinum,5,48,Health & Beauty,14/12/2022,Doctor,5,0
+51,26,Other,West,Platinum,5,378,Clothing,27/2/2022,Teacher,9,0
+52,38,Female,North,Bronze,8,470,Health & Beauty,26/9/2023,Engineer,8,0
+53,29,Female,West,Bronze,7,150,Electronics,1/6/2022,Manager,10,0
+54,23,Male,South,Gold,1,728,Home Goods,19/6/2023,Retail,6,0
+55,34,Female,South,Bronze,3,36,Home Goods,9/5/2023,Teacher,7,0
+56,39,Male,North,Platinum,4,624,Electronics,11/3/2023,Manager,9,0
+57,35,Male,East,Gold,5,255,Clothing,20/4/2023,Doctor,8,0
+58,38,Other,Central,Bronze,3,259,Home Goods,26/1/2022,Unemployed,9,0
+59,28,Female,South,Silver,4,321,Home Goods,17/3/2022,Doctor,7,0
+60,31,Male,South,Bronze,9,1936,Home Goods,28/9/2022,Engineer,13,0
+61,28,Other,North,Silver,2,791,Home Goods,1/7/2022,Artist,12,0
+62,31,Male,South,Bronze,10,108,Clothing,10/3/2023,Retail,7,0
+63,26,Female,Central,Silver,6,97,Electronics,25/1/2022,Artist,9,0
+64,17,Female,North,Bronze,5,672,Clothing,22/9/2022,Artist,8,0
+65,36,Other,West,Bronze,6,193,Electronics,16/1/2023,Artist,10,0
+66,30,Other,West,Silver,3,784,Electronics,18/2/2023,Artist,11,0
+67,18,Other,West,Bronze,5,375,Clothing,6/12/2023,Unemployed,7,0
+68,39,Other,Central,Bronze,4,437,Electronics,9/4/2022,Artist,5,0
+69,25,Other,East,Bronze,4,131,Books,10/9/2023,Unemployed,9,0
+70,35,Female,South,Silver,1,211,Electronics,17/1/2023,Artist,9,1
+71,42,Other,Central,Bronze,4,151,Electronics,26/6/2023,Doctor,9,0
+72,36,Other,East,Gold,6,880,Home Goods,14/11/2022,Engineer,10,0
+73,46,Other,North,Silver,1,230,Home Goods,16/5/2023,Doctor,8,1
+74,22,Other,Central,Bronze,5,1005,Books,1/11/2023,Teacher,13,0
+75,39,Female,North,Bronze,7,1489,Clothing,14/8/2022,Teacher,10,0
+76,28,Female,East,Bronze,2,287,Clothing,24/7/2022,Artist,10,1
+77,26,Male,Central,Bronze,5,888,Books,4/7/2023,Artist,12,0
+78,29,Other,South,Silver,5,1557,Electronics,18/1/2022,Doctor,13,0
+79,31,Other,East,Bronze,3,181,Electronics,13/12/2023,Retail,13,0
+80,35,Female,South,Silver,5,498,Books,3/11/2023,Artist,9,0
+81,23,Female,North,Bronze,4,1006,Electronics,26/7/2022,Artist,16,0
+82,44,Female,South,Bronze,3,243,Electronics,29/12/2023,Unemployed,14,0
+83,39,Other,Central,Bronze,9,414,Health & Beauty,16/1/2023,Artist,12,0
+84,19,Male,Central,Gold,4,93,Electronics,8/1/2023,Doctor,9,0
+85,49,Male,West,Bronze,4,2101,Clothing,2/3/2022,Teacher,10,0
+86,53,Female,South,Bronze,7,337,Books,11/5/2022,Unemployed,6,0
+87,46,Female,West,Gold,3,292,Home Goods,3/2/2022,Teacher,9,0
+88,33,Female,East,Bronze,6,376,Health & Beauty,2/7/2022,Teacher,14,0
+89,24,Female,North,Gold,8,388,Health & Beauty,3/1/2023,Unemployed,16,0
+90,45,Male,East,Silver,5,748,Books,17/10/2023,Manager,4,0
+91,30,Male,North,Bronze,9,593,Clothing,5/9/2023,Manager,9,0
+92,47,Female,South,Platinum,7,1089,Books,16/12/2023,Unemployed,8,0
+93,37,Male,Central,Platinum,5,724,Clothing,30/5/2022,Unemployed,12,0
+94,44,Female,South,Gold,4,22,Clothing,5/7/2022,Engineer,11,0
+95,38,Male,North,Gold,2,132,Electronics,20/3/2023,Teacher,8,1
+96,42,Other,West,Silver,7,576,Home Goods,27/4/2023,Manager,10,0
+97,35,Other,North,Platinum,2,930,Clothing,18/8/2022,Teacher,12,0
+98,52,Male,West,Silver,2,332,Electronics,18/3/2023,Artist,8,0
+99,36,Female,East,Gold,2,641,Health & Beauty,15/8/2022,Artist,10,0
+100,39,Male,Central,Silver,8,367,Books,14/2/2022,Retail,16,0
+101,53,Female,East,Gold,7,250,Home Goods,29/11/2023,Doctor,4,0
+102,21,Female,South,Silver,5,176,Clothing,22/4/2022,Unemployed,13,0
+103,22,Female,West,Silver,4,27,Home Goods,14/2/2022,Engineer,11,0
+104,44,Female,West,Silver,6,88,Electronics,13/7/2023,Manager,9,0
+105,23,Male,East,Bronze,4,182,Health & Beauty,21/10/2022,Engineer,11,0
+106,54,Male,Central,Silver,7,287,Health & Beauty,19/6/2022,Artist,7,0
+107,30,Other,Central,Gold,4,472,Books,20/3/2023,Engineer,10,0
+108,27,Female,East,Bronze,1,79,Home Goods,23/6/2022,Doctor,9,1
+109,54,Other,Central,Bronze,8,545,Health & Beauty,10/4/2023,Artist,4,0
+110,49,Male,South,Silver,2,72,Clothing,26/11/2023,Artist,12,1
+111,53,Male,North,Bronze,4,592,Books,25/8/2023,Doctor,14,0
+112,44,Female,West,Silver,6,1227,Home Goods,5/10/2023,Manager,13,0
+113,26,Male,West,Platinum,5,126,Electronics,7/10/2023,Teacher,9,0
+114,54,Female,West,Gold,6,195,Home Goods,1/11/2023,Teacher,9,0
+115,32,Other,North,Silver,3,116,Health & Beauty,16/4/2022,Engineer,8,0
+116,43,Female,South,Bronze,4,31,Electronics,25/1/2023,Doctor,5,0
+117,44,Male,East,Gold,5,162,Electronics,11/1/2022,Artist,9,0
+118,33,Male,Central,Platinum,7,351,Books,3/6/2022,Teacher,17,0
+119,41,Male,Central,Bronze,7,151,Home Goods,4/11/2023,Engineer,5,0
+120,44,Other,North,Silver,8,876,Health & Beauty,25/9/2023,Doctor,7,0
+121,38,Female,West,Bronze,6,1,Clothing,1/11/2023,Manager,5,0
+122,24,Other,Central,Bronze,4,450,Clothing,15/9/2023,Engineer,8,0
+123,37,Male,East,Bronze,5,115,Home Goods,2/7/2023,Teacher,12,0
+124,48,Female,Central,Bronze,0,468,Books,27/4/2022,Artist,7,0
+125,28,Other,West,Gold,2,956,Clothing,20/4/2023,Artist,15,0
+126,33,Female,East,Bronze,8,251,Health & Beauty,13/11/2022,Engineer,8,0
+127,30,Male,West,Gold,8,321,Books,1/12/2023,Manager,8,0
+128,53,Other,West,Bronze,5,1772,Books,24/6/2022,Unemployed,11,0
+129,41,Female,North,Silver,5,246,Health & Beauty,24/5/2022,Teacher,6,0
+130,39,Female,West,Bronze,6,468,Books,23/2/2022,Doctor,13,0
+131,27,Male,East,Silver,5,185,Home Goods,4/9/2022,Engineer,6,0
+132,40,Male,North,Silver,5,787,Clothing,24/6/2023,Manager,6,0
+133,28,Male,North,Silver,4,263,Clothing,30/12/2022,Engineer,7,0
+134,35,Other,East,Bronze,6,937,Books,13/2/2023,Retail,9,0
+135,28,Other,North,Platinum,6,384,Books,14/10/2023,Artist,13,0
+136,41,Female,East,Bronze,2,44,Health & Beauty,17/2/2023,Doctor,10,1
+137,40,Female,Central,Platinum,8,192,Books,17/12/2022,Retail,10,0
+138,32,Other,North,Gold,4,142,Home Goods,30/5/2022,Artist,14,0
+139,38,Female,Central,Bronze,1,519,Books,16/10/2023,Manager,9,0
+140,24,Other,North,Silver,2,886,Electronics,21/7/2022,Retail,9,0
+141,20,Female,West,Gold,5,1681,Electronics,12/2/2023,Retail,10,0
+142,39,Other,East,Bronze,3,1143,Books,15/2/2022,Unemployed,13,0
+143,36,Female,West,Bronze,2,327,Health & Beauty,6/12/2022,Doctor,6,0
+144,41,Female,Central,Silver,4,228,Electronics,13/10/2023,Doctor,8,0
+145,58,Other,East,Platinum,7,222,Home Goods,6/12/2022,Manager,4,0
+146,44,Male,East,Silver,3,1640,Clothing,29/9/2022,Unemployed,9,0
+147,25,Other,Central,Silver,7,553,Books,29/6/2023,Engineer,10,0
+148,46,Other,East,Silver,5,246,Electronics,27/12/2022,Artist,14,0
+149,21,Male,East,Silver,3,565,Clothing,23/7/2022,Engineer,10,0
+150,30,Female,North,Silver,2,157,Home Goods,1/5/2022,Doctor,12,1
+151,34,Male,South,Gold,1,219,Health & Beauty,17/12/2023,Retail,11,1
+152,52,Male,West,Silver,8,587,Clothing,9/7/2022,Manager,8,0
+153,27,Male,South,Platinum,3,148,Books,16/9/2023,Artist,8,0
+154,26,Female,East,Gold,4,142,Clothing,6/4/2022,Manager,8,0
+155,34,Other,South,Bronze,6,92,Books,16/3/2022,Manager,13,0
+156,28,Male,North,Bronze,4,257,Health & Beauty,29/9/2022,Retail,11,0
+157,46,Female,Central,Bronze,5,287,Electronics,18/9/2023,Manager,12,0
+158,24,Female,Central,Platinum,4,1583,Health & Beauty,23/8/2023,Teacher,18,0
+159,23,Other,South,Bronze,1,153,Books,23/3/2022,Teacher,6,1
+160,30,Other,North,Bronze,6,21,Clothing,16/9/2023,Manager,6,0
+161,30,Male,Central,Silver,3,348,Home Goods,16/9/2023,Retail,6,0
+162,54,Female,South,Silver,7,50,Electronics,7/8/2023,Teacher,9,0
+163,44,Other,South,Platinum,5,162,Electronics,6/9/2022,Retail,14,0
+164,35,Male,West,Gold,6,423,Clothing,12/5/2022,Engineer,12,0
+165,22,Female,North,Bronze,3,135,Home Goods,2/6/2022,Retail,9,0
+166,43,Female,West,Bronze,5,254,Electronics,19/12/2022,Artist,10,0
+167,24,Other,South,Bronze,2,1333,Home Goods,13/9/2023,Artist,15,0
+168,19,Female,West,Gold,4,31,Clothing,3/6/2023,Doctor,15,0
+169,46,Female,West,Bronze,4,287,Books,13/10/2022,Artist,12,0
+170,38,Other,South,Gold,3,510,Books,10/1/2022,Teacher,13,0
+171,44,Female,Central,Bronze,7,436,Health & Beauty,4/6/2022,Retail,9,0
+172,38,Female,East,Silver,6,540,Books,19/1/2022,Artist,6,0
+173,43,Male,Central,Silver,4,23,Electronics,12/3/2023,Teacher,11,0
+174,28,Female,North,Silver,6,143,Clothing,25/6/2022,Teacher,8,0
+175,24,Other,Central,Gold,5,16,Electronics,3/3/2023,Engineer,11,0
+176,41,Female,South,Bronze,3,535,Health & Beauty,6/3/2022,Manager,9,0
+177,26,Other,West,Silver,7,272,Books,22/10/2023,Artist,13,0
+178,28,Other,North,Bronze,3,437,Clothing,8/8/2023,Artist,8,0
+179,30,Female,North,Gold,2,317,Clothing,31/8/2022,Retail,14,0
+180,35,Other,North,Bronze,6,1680,Home Goods,27/8/2023,Teacher,16,0
+181,31,Male,West,Gold,7,73,Home Goods,14/3/2022,Unemployed,8,0
+182,21,Other,Central,Bronze,8,388,Clothing,31/10/2023,Unemployed,13,0
+183,28,Male,West,Bronze,5,285,Books,5/7/2022,Doctor,14,0
+184,12,Other,East,Silver,4,284,Health & Beauty,18/3/2022,Teacher,8,0
+185,41,Female,North,Gold,4,45,Health & Beauty,5/7/2023,Artist,14,0
+186,18,Other,South,Platinum,5,396,Electronics,5/2/2022,Manager,12,0
+187,23,Other,West,Gold,5,701,Electronics,27/11/2023,Teacher,9,0
+188,35,Other,North,Silver,4,535,Home Goods,13/12/2022,Engineer,11,0
+189,27,Male,West,Bronze,6,132,Electronics,3/3/2023,Retail,9,0
+190,50,Male,West,Silver,9,123,Clothing,21/5/2022,Retail,7,0
+191,22,Male,Central,Gold,1,939,Clothing,25/12/2022,Doctor,4,0
+192,37,Male,West,Gold,5,1124,Electronics,2/7/2023,Retail,6,0
+193,34,Male,South,Bronze,6,912,Clothing,1/3/2022,Doctor,12,0
+194,23,Female,East,Silver,8,28,Health & Beauty,2/6/2022,Doctor,10,0
+195,40,Other,East,Bronze,3,158,Books,16/5/2022,Retail,11,0
+196,33,Other,West,Gold,3,239,Clothing,23/11/2022,Doctor,8,0
+197,42,Female,West,Gold,1,49,Health & Beauty,12/5/2022,Teacher,10,1
+198,43,Female,West,Gold,9,291,Health & Beauty,12/8/2023,Unemployed,10,0
+199,56,Female,East,Bronze,5,319,Clothing,20/3/2022,Doctor,10,0
+200,48,Female,West,Silver,7,265,Health & Beauty,24/12/2022,Manager,11,0
+201,31,Male,Central,Bronze,9,928,Books,11/11/2022,Doctor,9,0
+202,32,Other,West,Platinum,6,335,Electronics,24/6/2022,Manager,8,0
+203,45,Female,South,Silver,3,687,Home Goods,30/10/2022,Manager,11,0
+204,41,Female,South,Silver,4,641,Health & Beauty,16/12/2022,Teacher,8,0
+205,41,Other,East,Silver,7,127,Home Goods,12/2/2022,Teacher,4,0
+206,18,Female,South,Silver,4,442,Electronics,10/4/2023,Doctor,10,0
+207,34,Male,East,Bronze,4,27,Books,9/12/2023,Unemployed,9,0
+208,27,Male,South,Bronze,7,345,Home Goods,23/12/2023,Artist,5,0
+209,37,Male,East,Bronze,6,62,Clothing,9/9/2023,Retail,7,0
+210,34,Female,North,Bronze,4,1,Health & Beauty,14/2/2022,Unemployed,5,0
+211,44,Other,South,Silver,6,237,Health & Beauty,14/5/2023,Retail,13,0
+212,38,Female,West,Bronze,6,1650,Health & Beauty,12/1/2022,Retail,12,0
+213,42,Other,East,Bronze,2,575,Electronics,1/6/2023,Retail,11,0
+214,30,Male,East,Gold,4,214,Books,19/3/2022,Retail,13,0
+215,25,Male,Central,Gold,14,626,Clothing,12/10/2023,Retail,7,0
+216,30,Other,North,Bronze,10,409,Electronics,26/1/2023,Teacher,11,0
+217,34,Female,North,Bronze,5,539,Clothing,25/9/2023,Artist,14,0
+218,38,Female,West,Bronze,6,62,Electronics,24/1/2022,Teacher,7,0
+219,57,Female,East,Bronze,4,317,Books,31/5/2022,Artist,12,0
+220,34,Male,North,Bronze,2,776,Clothing,26/6/2022,Manager,13,0
+221,25,Female,North,Silver,9,242,Electronics,11/10/2023,Engineer,10,0
+222,31,Other,Central,Silver,2,1555,Health & Beauty,11/4/2023,Teacher,14,0
+223,30,Female,West,Platinum,7,456,Health & Beauty,24/4/2022,Engineer,10,0
+224,39,Female,West,Bronze,9,1423,Clothing,17/2/2022,Unemployed,11,0
+225,19,Other,North,Silver,6,423,Home Goods,25/3/2023,Teacher,6,0
+226,35,Other,South,Bronze,13,118,Home Goods,28/8/2022,Artist,10,0
+227,36,Male,Central,Silver,3,151,Books,17/7/2022,Engineer,10,0
+228,37,Male,South,Gold,2,433,Health & Beauty,5/9/2022,Unemployed,8,0
+229,29,Female,Central,Bronze,8,884,Clothing,13/5/2023,Manager,9,0
+230,32,Female,South,Bronze,4,108,Health & Beauty,10/4/2022,Engineer,8,0
+231,20,Male,West,Gold,10,393,Health & Beauty,20/10/2023,Engineer,10,0
+232,30,Female,East,Silver,12,215,Home Goods,14/9/2022,Unemployed,10,0
+233,29,Female,West,Gold,4,881,Clothing,3/7/2022,Retail,15,0
+234,39,Other,North,Silver,3,724,Home Goods,9/5/2022,Engineer,7,0
+235,23,Female,South,Silver,7,20,Electronics,19/2/2022,Doctor,10,0
+236,42,Other,North,Gold,6,119,Electronics,20/3/2023,Retail,13,0
+237,49,Male,West,Silver,8,456,Home Goods,20/11/2023,Teacher,8,0
+238,14,Female,South,Gold,3,925,Home Goods,2/4/2022,Retail,10,0
+239,39,Other,Central,Silver,0,487,Books,19/2/2022,Artist,10,0
+240,41,Other,East,Bronze,5,1291,Clothing,15/4/2023,Unemployed,10,0
+241,28,Other,West,Silver,1,319,Clothing,13/12/2023,Engineer,6,0
+242,31,Other,West,Bronze,3,681,Clothing,23/1/2022,Artist,8,0
+243,33,Female,East,Platinum,5,206,Home Goods,21/11/2023,Engineer,8,0
+244,32,Male,West,Bronze,8,38,Health & Beauty,22/4/2022,Doctor,12,0
+245,31,Other,South,Bronze,3,702,Books,20/10/2022,Artist,11,0
+246,18,Male,South,Silver,5,190,Home Goods,26/7/2022,Manager,8,0
+247,46,Other,West,Bronze,4,294,Home Goods,18/10/2022,Unemployed,11,0
+248,45,Other,South,Gold,6,153,Health & Beauty,5/7/2022,Manager,10,0
+249,26,Other,West,Bronze,6,187,Clothing,21/11/2023,Manager,6,0
+250,20,Male,West,Silver,3,770,Clothing,28/12/2022,Doctor,5,0
+251,40,Male,Central,Gold,2,22,Electronics,1/5/2023,Artist,10,1
+252,29,Male,East,Gold,2,23,Clothing,23/12/2022,Artist,12,1
+253,36,Female,South,Gold,9,493,Clothing,13/9/2022,Artist,9,0
+254,31,Male,East,Platinum,5,25,Books,13/2/2023,Teacher,7,0
+255,41,Female,Central,Gold,7,527,Home Goods,30/5/2022,Teacher,9,0
+256,41,Female,North,Silver,8,84,Clothing,28/3/2023,Retail,8,0
+257,27,Male,West,Gold,4,313,Electronics,17/4/2023,Manager,11,0
+258,21,Other,South,Bronze,4,468,Electronics,2/12/2022,Unemployed,4,0
+259,19,Other,North,Bronze,6,122,Health & Beauty,11/7/2022,Unemployed,8,0
+260,41,Female,North,Platinum,4,469,Health & Beauty,9/9/2022,Retail,10,0
+261,23,Other,South,Platinum,2,52,Books,23/5/2023,Doctor,6,1
+262,29,Other,North,Platinum,9,397,Electronics,2/2/2022,Teacher,10,0
+263,29,Female,West,Bronze,10,465,Health & Beauty,25/1/2023,Retail,15,0
+264,34,Male,West,Bronze,8,2,Home Goods,30/5/2022,Artist,13,0
+265,15,Female,West,Bronze,2,2335,Clothing,15/7/2023,Retail,11,0
+266,36,Male,Central,Bronze,7,50,Clothing,25/2/2022,Artist,6,0
+267,40,Male,North,Bronze,4,299,Clothing,29/4/2023,Retail,7,0
+268,35,Female,West,Bronze,6,84,Clothing,20/2/2023,Manager,14,0
+269,31,Other,Central,Silver,11,21,Home Goods,6/12/2023,Unemployed,11,0
+270,35,Male,West,Bronze,12,348,Health & Beauty,7/12/2023,Artist,10,0
+271,38,Female,West,Silver,4,453,Electronics,28/7/2023,Unemployed,10,0
+272,7,Female,South,Silver,3,136,Electronics,25/5/2022,Engineer,7,0
+273,54,Female,West,Platinum,5,554,Books,2/5/2022,Retail,10,0
+274,38,Male,West,Platinum,2,709,Books,8/4/2023,Teacher,8,0
+275,28,Other,West,Gold,6,1082,Health & Beauty,17/5/2023,Teacher,10,0
+276,31,Other,West,Gold,0,365,Books,1/9/2023,Manager,4,0
+277,39,Female,West,Gold,4,382,Books,15/8/2022,Teacher,14,0
+278,33,Male,East,Platinum,7,288,Books,22/10/2023,Doctor,6,0
+279,14,Other,East,Silver,8,388,Home Goods,8/12/2023,Manager,10,0
+280,55,Female,Central,Silver,5,14,Home Goods,24/8/2023,Teacher,6,0
+281,33,Other,Central,Gold,2,434,Clothing,24/11/2022,Engineer,10,0
+282,45,Other,Central,Silver,5,514,Clothing,10/6/2023,Engineer,8,0
+283,28,Male,East,Bronze,3,3127,Clothing,21/7/2023,Artist,11,0
+284,50,Female,Central,Silver,5,162,Books,20/3/2023,Manager,8,0
+285,37,Other,South,Bronze,8,1328,Books,5/10/2023,Artist,8,0
+286,41,Other,North,Silver,3,1020,Home Goods,21/6/2022,Teacher,11,0
+287,24,Male,South,Silver,2,279,Electronics,30/11/2022,Unemployed,9,1
+288,47,Male,North,Silver,6,780,Health & Beauty,14/2/2022,Teacher,10,0
+289,41,Other,North,Bronze,5,386,Health & Beauty,14/2/2022,Doctor,10,0
+290,48,Male,West,Bronze,4,57,Health & Beauty,18/5/2022,Engineer,13,0
+291,28,Male,Central,Bronze,5,35,Electronics,12/5/2023,Manager,10,0
+292,30,Female,North,Bronze,3,148,Health & Beauty,6/8/2022,Artist,13,0
+293,58,Female,West,Silver,4,177,Health & Beauty,1/4/2022,Teacher,10,0
+294,24,Other,South,Bronze,6,322,Books,19/7/2023,Unemployed,13,0
+295,33,Other,West,Bronze,9,283,Health & Beauty,31/3/2023,Engineer,10,0
+296,46,Other,North,Silver,2,128,Health & Beauty,17/4/2023,Teacher,8,1
+297,35,Male,West,Silver,5,540,Clothing,11/3/2022,Unemployed,13,0
+298,40,Female,West,Silver,6,1908,Books,19/10/2023,Manager,10,0
+299,31,Other,South,Platinum,5,471,Home Goods,28/6/2022,Teacher,14,0
+300,38,Female,South,Bronze,3,30,Books,13/8/2023,Manager,7,0
+301,21,Male,North,Silver,2,225,Health & Beauty,7/3/2022,Manager,7,1
+302,51,Female,West,Gold,2,177,Electronics,12/11/2023,Engineer,5,1
+303,33,Male,East,Bronze,8,86,Clothing,10/3/2023,Unemployed,10,0
+304,28,Other,West,Silver,4,74,Home Goods,12/6/2022,Engineer,9,0
+305,41,Male,North,Bronze,5,128,Books,8/8/2023,Manager,10,0
+306,30,Male,East,Silver,7,428,Clothing,14/2/2022,Unemployed,9,0
+307,21,Male,West,Bronze,8,148,Home Goods,9/3/2023,Artist,2,0
+308,21,Male,South,Bronze,8,1745,Electronics,18/9/2022,Teacher,5,0
+309,41,Other,North,Silver,2,53,Health & Beauty,3/4/2022,Teacher,10,1
+310,33,Female,West,Gold,11,142,Electronics,20/9/2023,Artist,14,0
+311,33,Other,South,Bronze,4,212,Health & Beauty,3/11/2022,Retail,18,0
+312,45,Other,North,Silver,7,44,Home Goods,9/3/2023,Teacher,8,0
+313,23,Male,East,Silver,3,846,Clothing,18/12/2023,Engineer,10,0
+314,27,Other,East,Gold,2,169,Home Goods,3/1/2024,Doctor,13,1
+315,31,Male,North,Bronze,4,264,Books,8/11/2023,Retail,15,0
+316,35,Female,South,Bronze,3,2190,Electronics,27/6/2023,Unemployed,7,0
+317,34,Male,East,Bronze,5,1005,Clothing,9/4/2023,Doctor,9,0
+318,32,Female,North,Silver,6,177,Health & Beauty,16/5/2023,Engineer,13,0
+319,34,Other,West,Bronze,6,9,Home Goods,10/3/2023,Artist,6,0
+320,33,Male,North,Bronze,6,39,Clothing,14/4/2023,Manager,10,0
+321,27,Female,North,Bronze,7,496,Home Goods,28/9/2022,Doctor,14,0
+322,26,Other,North,Bronze,3,522,Electronics,14/5/2023,Manager,12,0
+323,37,Female,South,Gold,7,285,Electronics,10/2/2022,Artist,4,0
+324,26,Male,Central,Gold,2,102,Books,15/4/2022,Engineer,9,1
+325,23,Female,West,Platinum,0,399,Home Goods,26/10/2022,Unemployed,9,0
+326,31,Female,South,Silver,6,1067,Home Goods,20/1/2022,Retail,10,0
+327,33,Female,North,Gold,8,1083,Electronics,7/3/2023,Engineer,14,0
+328,57,Other,West,Platinum,3,103,Health & Beauty,23/3/2023,Retail,8,0
+329,27,Female,South,Bronze,8,92,Health & Beauty,22/10/2023,Engineer,15,0
+330,44,Female,East,Silver,4,152,Home Goods,28/6/2022,Engineer,10,0
+331,42,Female,West,Bronze,6,180,Books,19/6/2023,Retail,12,0
+332,23,Female,Central,Bronze,3,68,Home Goods,13/2/2023,Teacher,10,0
+333,42,Male,Central,Silver,9,691,Home Goods,16/10/2022,Retail,14,0
+334,23,Male,West,Platinum,3,446,Home Goods,20/3/2023,Retail,13,0
+335,8,Other,West,Gold,6,563,Home Goods,26/5/2022,Artist,11,0
+336,41,Female,North,Gold,4,55,Health & Beauty,8/3/2022,Retail,9,0
+337,17,Other,North,Bronze,6,161,Books,2/6/2023,Artist,11,0
+338,39,Female,North,Bronze,6,171,Health & Beauty,1/2/2022,Engineer,14,0
+339,28,Male,West,Bronze,7,63,Clothing,15/7/2022,Artist,12,0
+340,51,Female,Central,Bronze,9,334,Clothing,13/1/2022,Retail,9,0
+341,45,Other,East,Platinum,7,169,Clothing,14/12/2023,Unemployed,8,0
+342,30,Female,Central,Bronze,3,363,Electronics,20/8/2023,Artist,14,0
+343,28,Male,North,Silver,5,31,Books,15/6/2022,Engineer,9,0
+344,22,Other,South,Silver,3,612,Health & Beauty,7/8/2023,Manager,13,0
+345,30,Female,Central,Bronze,6,953,Books,20/9/2023,Teacher,8,0
+346,32,Male,North,Gold,4,446,Clothing,25/3/2023,Doctor,8,0
+347,31,Female,West,Bronze,5,76,Health & Beauty,20/11/2023,Doctor,16,0
+348,36,Male,East,Bronze,11,461,Electronics,2/4/2022,Retail,7,0
+349,40,Other,South,Gold,8,63,Home Goods,18/4/2023,Retail,11,0
+350,38,Other,Central,Bronze,2,67,Health & Beauty,11/6/2023,Teacher,10,1
+351,27,Female,North,Platinum,4,501,Electronics,17/10/2023,Doctor,5,0
+352,20,Male,Central,Bronze,4,52,Health & Beauty,1/12/2023,Retail,11,0
+353,48,Other,East,Platinum,8,41,Health & Beauty,28/4/2023,Manager,6,0
+354,28,Female,South,Silver,9,164,Books,9/6/2023,Unemployed,16,0
+355,28,Female,Central,Bronze,10,38,Home Goods,13/3/2023,Retail,15,0
+356,29,Female,East,Gold,3,1015,Clothing,24/9/2023,Unemployed,7,0
+357,16,Male,South,Gold,3,438,Books,25/4/2023,Retail,14,0
+358,30,Female,Central,Bronze,5,287,Electronics,9/1/2023,Unemployed,10,0
+359,30,Male,North,Silver,11,294,Electronics,16/9/2023,Unemployed,12,0
+360,41,Female,East,Silver,4,788,Clothing,2/9/2022,Engineer,13,0
+361,41,Male,North,Silver,2,574,Clothing,13/5/2022,Unemployed,5,0
+362,35,Female,East,Bronze,7,244,Home Goods,9/1/2022,Doctor,6,0
+363,44,Female,North,Bronze,3,642,Home Goods,7/4/2022,Doctor,11,0
+364,38,Male,North,Bronze,4,1898,Books,27/9/2023,Engineer,11,0
+365,34,Other,Central,Bronze,9,9,Home Goods,17/7/2023,Doctor,12,0
+366,36,Other,Central,Bronze,8,1301,Clothing,11/4/2023,Unemployed,12,0
+367,33,Other,North,Bronze,6,124,Clothing,29/6/2023,Teacher,10,0
+368,31,Male,East,Silver,10,949,Home Goods,3/8/2023,Doctor,12,0
+369,32,Other,Central,Platinum,3,1076,Electronics,20/8/2022,Doctor,6,0
+370,23,Female,Central,Gold,4,1001,Health & Beauty,10/1/2022,Teacher,11,0
+371,37,Male,North,Bronze,5,826,Books,29/10/2022,Doctor,13,0
+372,25,Other,East,Silver,6,124,Books,7/12/2023,Artist,6,0
+373,43,Female,North,Bronze,3,31,Health & Beauty,4/10/2022,Artist,4,0
+374,32,Female,West,Gold,4,135,Books,15/2/2022,Doctor,10,0
+375,35,Male,North,Silver,6,481,Home Goods,13/3/2023,Unemployed,11,0
+376,39,Other,East,Silver,4,703,Clothing,6/3/2023,Teacher,9,0
+377,41,Female,Central,Silver,3,289,Home Goods,25/5/2023,Unemployed,9,0
+378,19,Other,Central,Bronze,2,1670,Home Goods,22/5/2023,Teacher,7,0
+379,32,Female,South,Bronze,5,1784,Clothing,30/9/2023,Artist,8,0
+380,43,Female,North,Bronze,3,1331,Health & Beauty,24/11/2022,Manager,10,0
+381,18,Male,Central,Bronze,8,362,Health & Beauty,21/1/2022,Engineer,10,0
+382,38,Other,West,Silver,5,41,Health & Beauty,28/1/2023,Engineer,7,0
+383,12,Female,Central,Platinum,5,379,Health & Beauty,1/8/2023,Doctor,8,0
+384,24,Other,West,Bronze,6,294,Health & Beauty,3/4/2022,Artist,8,0
+385,35,Other,Central,Silver,4,272,Clothing,28/4/2023,Doctor,8,0
+386,18,Other,Central,Gold,5,943,Home Goods,27/3/2022,Engineer,6,0
+387,25,Male,East,Silver,9,254,Home Goods,4/3/2022,Doctor,10,0
+388,20,Female,Central,Silver,11,51,Health & Beauty,17/5/2023,Engineer,16,0
+389,51,Other,West,Bronze,6,1705,Books,15/2/2022,Retail,8,0
+390,36,Male,East,Silver,5,1515,Health & Beauty,4/6/2023,Manager,10,0
+391,40,Other,Central,Silver,6,840,Home Goods,26/4/2023,Artist,10,0
+392,32,Male,East,Gold,5,1430,Home Goods,19/2/2023,Doctor,7,0
+393,31,Other,Central,Gold,3,119,Home Goods,6/2/2022,Engineer,8,0
+394,18,Other,South,Silver,4,297,Electronics,9/10/2022,Retail,11,0
+395,32,Other,East,Silver,5,7,Home Goods,13/8/2023,Manager,12,0
+396,27,Male,West,Gold,2,529,Clothing,12/8/2022,Teacher,7,0
+397,43,Male,South,Bronze,3,725,Books,15/1/2023,Artist,13,0
+398,46,Female,Central,Bronze,7,618,Health & Beauty,29/12/2022,Doctor,11,0
+399,49,Female,Central,Bronze,4,119,Electronics,12/2/2022,Unemployed,4,0
+400,43,Male,South,Silver,4,44,Books,8/12/2023,Manager,6,0
+401,29,Female,North,Gold,2,754,Health & Beauty,25/4/2023,Retail,6,0
+402,23,Male,South,Bronze,5,68,Electronics,11/7/2023,Unemployed,11,0
+403,42,Male,West,Gold,6,580,Electronics,29/6/2022,Doctor,7,0
+404,38,Male,Central,Silver,3,1044,Books,17/10/2023,Artist,5,0
+405,17,Female,East,Silver,8,962,Books,16/9/2022,Manager,12,0
+406,38,Other,North,Bronze,4,100,Home Goods,11/2/2023,Unemployed,11,0
+407,43,Female,East,Silver,3,1302,Health & Beauty,28/6/2023,Retail,11,0
+408,35,Other,South,Bronze,4,857,Health & Beauty,20/6/2023,Unemployed,6,0
+409,33,Female,Central,Gold,9,195,Clothing,9/5/2023,Manager,11,0
+410,26,Other,West,Platinum,3,145,Books,31/12/2022,Retail,16,0
+411,20,Other,South,Bronze,8,821,Electronics,16/9/2022,Retail,8,0
+412,43,Male,South,Bronze,4,292,Health & Beauty,1/4/2023,Doctor,15,0
+413,31,Female,East,Bronze,8,356,Books,2/3/2023,Teacher,11,0
+414,32,Other,East,Silver,7,15,Clothing,4/4/2023,Manager,15,0
+415,52,Female,Central,Bronze,6,936,Electronics,11/4/2022,Unemployed,12,0
+416,41,Male,East,Bronze,5,900,Home Goods,16/4/2022,Doctor,4,0
+417,38,Male,North,Bronze,6,598,Books,6/3/2022,Artist,6,0
+418,36,Other,Central,Gold,7,419,Clothing,2/10/2023,Engineer,10,0
+419,50,Male,West,Bronze,2,757,Books,15/3/2022,Manager,17,0
+420,52,Female,North,Bronze,4,42,Books,31/7/2023,Manager,9,0
+421,44,Male,South,Gold,4,437,Home Goods,25/11/2022,Teacher,8,0
+422,40,Male,East,Platinum,4,159,Books,23/3/2022,Retail,5,0
+423,14,Male,West,Silver,4,803,Books,26/4/2022,Manager,18,0
+424,36,Male,Central,Bronze,4,736,Electronics,12/10/2022,Manager,10,0
+425,33,Female,East,Gold,5,145,Health & Beauty,9/7/2023,Engineer,13,0
+426,35,Female,North,Bronze,1,338,Home Goods,4/10/2023,Artist,8,0
+427,44,Other,South,Bronze,5,1456,Home Goods,2/12/2023,Unemployed,4,0
+428,7,Male,South,Silver,8,1,Clothing,11/3/2022,Retail,15,0
+429,29,Other,East,Silver,6,859,Clothing,29/1/2023,Doctor,5,0
+430,37,Other,Central,Silver,4,578,Health & Beauty,11/2/2022,Retail,13,0
+431,30,Female,Central,Silver,4,372,Electronics,26/10/2023,Artist,9,0
+432,20,Male,East,Silver,7,308,Electronics,9/8/2022,Doctor,9,0
+433,43,Male,East,Platinum,8,4,Electronics,16/9/2023,Artist,10,0
+434,37,Female,East,Platinum,3,726,Home Goods,8/4/2023,Retail,15,0
+435,25,Female,West,Gold,4,117,Electronics,30/8/2022,Engineer,9,0
+436,38,Female,East,Bronze,1,824,Books,12/7/2022,Teacher,8,0
+437,43,Male,West,Bronze,4,312,Electronics,1/12/2023,Artist,9,0
+438,35,Other,North,Silver,5,591,Electronics,29/8/2023,Teacher,10,0
+439,43,Other,East,Bronze,7,19,Home Goods,23/2/2022,Engineer,11,0
+440,35,Male,East,Gold,4,264,Home Goods,7/10/2023,Teacher,3,0
+441,31,Other,Central,Bronze,6,656,Books,16/2/2022,Unemployed,9,0
+442,23,Male,East,Bronze,4,1403,Books,25/12/2022,Unemployed,13,0
+443,34,Male,West,Platinum,4,124,Electronics,24/11/2023,Teacher,10,0
+444,36,Female,West,Silver,3,151,Books,13/3/2023,Unemployed,8,0
+445,43,Male,East,Silver,6,532,Clothing,3/12/2022,Retail,8,0
+446,33,Female,West,Gold,3,115,Health & Beauty,7/9/2023,Doctor,12,0
+447,39,Female,East,Bronze,5,217,Clothing,27/6/2023,Artist,6,0
+448,25,Other,North,Silver,3,535,Books,5/9/2022,Engineer,14,0
+449,27,Female,West,Silver,3,99,Home Goods,11/3/2023,Unemployed,3,0
+450,33,Other,West,Bronze,5,319,Books,11/2/2022,Manager,6,0
+451,24,Male,West,Gold,6,597,Electronics,28/3/2023,Unemployed,16,0
+452,43,Other,West,Silver,5,251,Home Goods,29/7/2022,Engineer,9,0
+453,39,Other,East,Silver,2,76,Clothing,28/7/2023,Engineer,16,1
+454,37,Other,East,Gold,6,1159,Books,3/11/2023,Doctor,15,0
+455,38,Male,North,Bronze,4,37,Home Goods,4/6/2023,Manager,7,0
+456,55,Male,East,Bronze,2,599,Electronics,2/10/2023,Doctor,8,0
+457,30,Female,West,Gold,10,337,Electronics,29/11/2023,Engineer,7,0
+458,12,Male,North,Bronze,5,966,Electronics,6/4/2023,Retail,4,0
+459,36,Female,South,Bronze,5,15,Electronics,5/6/2022,Retail,9,0
+460,34,Male,Central,Bronze,7,257,Books,29/12/2023,Unemployed,11,0
+461,29,Other,North,Bronze,7,405,Books,8/7/2023,Teacher,12,0
+462,25,Female,Central,Bronze,9,293,Home Goods,16/8/2022,Teacher,8,0
+463,30,Male,West,Bronze,3,837,Home Goods,19/8/2023,Engineer,10,0
+464,36,Male,South,Silver,6,586,Electronics,11/9/2022,Unemployed,13,0
+465,29,Male,Central,Silver,7,1017,Clothing,22/8/2023,Retail,14,0
+466,59,Other,North,Platinum,7,171,Books,10/10/2022,Artist,10,0
+467,25,Female,East,Gold,4,579,Health & Beauty,22/11/2023,Doctor,10,0
+468,27,Female,Central,Bronze,5,83,Books,18/7/2022,Unemployed,9,0
+469,12,Female,East,Silver,3,1960,Electronics,14/7/2022,Teacher,7,0
+470,37,Male,Central,Bronze,7,2164,Electronics,14/11/2023,Unemployed,8,0
+471,14,Female,West,Silver,3,133,Electronics,28/7/2022,Doctor,5,0
+472,29,Female,East,Silver,7,294,Clothing,23/1/2022,Engineer,14,0
+473,32,Male,South,Bronze,0,240,Home Goods,28/10/2022,Manager,9,1
+474,27,Male,North,Gold,5,182,Health & Beauty,4/1/2023,Artist,8,0
+475,52,Male,South,Silver,4,1301,Electronics,9/8/2022,Engineer,11,0
+476,44,Male,Central,Silver,1,708,Books,21/9/2023,Retail,12,0
+477,48,Other,Central,Platinum,8,712,Clothing,18/5/2023,Retail,10,0
+478,26,Other,South,Silver,5,1286,Health & Beauty,1/8/2023,Doctor,9,0
+479,46,Female,Central,Silver,6,477,Clothing,13/4/2022,Doctor,14,0
+480,39,Other,West,Bronze,3,37,Home Goods,30/5/2022,Manager,9,0
+481,42,Male,North,Silver,3,103,Electronics,24/11/2023,Doctor,11,0
+482,45,Other,West,Bronze,3,159,Books,10/9/2022,Artist,9,0
+483,25,Male,East,Bronze,1,100,Electronics,16/12/2022,Teacher,15,1
+484,30,Other,North,Silver,1,23,Health & Beauty,29/4/2023,Teacher,12,1
+485,43,Male,North,Bronze,4,226,Health & Beauty,22/9/2023,Retail,12,0
+486,8,Female,Central,Silver,8,106,Health & Beauty,5/2/2023,Manager,8,0
+487,50,Female,East,Platinum,2,245,Home Goods,30/8/2023,Retail,10,1
+488,40,Other,South,Bronze,1,228,Home Goods,8/9/2023,Artist,8,1
+489,34,Male,East,Bronze,6,170,Health & Beauty,4/12/2022,Manager,5,0
+490,37,Female,South,Gold,7,593,Home Goods,5/6/2022,Teacher,14,0
+491,24,Male,East,Silver,7,275,Home Goods,25/9/2023,Unemployed,3,0
+492,31,Other,East,Platinum,2,406,Health & Beauty,25/10/2022,Doctor,7,0
+493,46,Male,South,Platinum,9,332,Books,3/2/2023,Manager,10,0
+494,47,Male,West,Gold,7,14,Clothing,21/10/2022,Artist,16,0
+495,61,Other,Central,Bronze,4,218,Home Goods,30/9/2022,Doctor,17,0
+496,34,Female,Central,Bronze,6,902,Health & Beauty,20/4/2022,Manager,9,0
+497,28,Other,Central,Platinum,5,1080,Books,27/9/2023,Unemployed,11,0
+498,29,Male,South,Bronze,5,14,Home Goods,29/6/2023,Artist,14,0
+499,24,Other,Central,Bronze,3,1038,Clothing,9/12/2023,Unemployed,9,0
+500,34,Other,North,Silver,7,50,Books,30/1/2022,Doctor,5,0
+501,38,Male,East,Gold,2,480,Books,25/6/2023,Teacher,11,0
+502,34,Other,South,Platinum,5,2199,Clothing,13/10/2022,Teacher,11,0
+503,45,Female,South,Silver,11,2076,Health & Beauty,4/4/2022,Retail,16,0
+504,32,Female,North,Silver,8,644,Clothing,22/5/2023,Doctor,6,0
+505,31,Other,East,Bronze,3,543,Clothing,13/11/2022,Artist,16,0
+506,29,Male,Central,Gold,9,123,Health & Beauty,9/10/2022,Teacher,7,0
+507,18,Other,South,Bronze,5,615,Health & Beauty,2/5/2022,Manager,8,0
+508,19,Other,South,Gold,4,786,Electronics,13/6/2023,Engineer,10,0
+509,23,Female,South,Bronze,3,335,Books,14/4/2023,Manager,9,0
+510,48,Female,South,Platinum,10,816,Books,11/9/2023,Teacher,9,0
+511,43,Male,South,Gold,4,931,Health & Beauty,31/5/2022,Artist,16,0
+512,48,Male,South,Silver,4,283,Electronics,23/7/2022,Teacher,9,0
+513,21,Male,North,Bronze,6,1647,Clothing,20/7/2022,Engineer,15,0
+514,15,Other,South,Silver,1,565,Clothing,9/2/2023,Teacher,10,0
+515,28,Other,West,Silver,0,291,Home Goods,23/5/2022,Manager,10,1
+516,36,Other,East,Bronze,4,181,Books,19/10/2022,Teacher,11,0
+517,39,Other,East,Silver,3,118,Clothing,13/4/2022,Manager,12,0
+518,45,Male,Central,Gold,6,394,Electronics,17/2/2022,Engineer,7,0
+519,37,Male,South,Bronze,4,495,Books,7/3/2022,Artist,6,0
+520,52,Male,South,Bronze,3,235,Health & Beauty,23/1/2022,Artist,8,0
+521,32,Other,North,Bronze,4,671,Electronics,13/5/2022,Teacher,10,0
+522,25,Other,West,Gold,5,610,Clothing,19/1/2022,Manager,17,0
+523,18,Male,East,Bronze,6,295,Books,9/10/2022,Retail,14,0
+524,26,Female,East,Platinum,8,491,Clothing,10/5/2023,Artist,11,0
+525,37,Male,Central,Silver,3,294,Home Goods,17/5/2022,Manager,9,0
+526,26,Other,South,Bronze,3,40,Clothing,2/9/2022,Retail,17,0
+527,44,Other,North,Bronze,4,696,Health & Beauty,6/11/2022,Artist,10,0
+528,49,Male,Central,Gold,3,1030,Clothing,16/1/2023,Retail,7,0
+529,11,Female,Central,Bronze,8,152,Health & Beauty,19/9/2022,Teacher,16,0
+530,43,Female,Central,Gold,2,562,Electronics,25/2/2023,Unemployed,10,0
+531,12,Other,North,Gold,5,97,Clothing,2/10/2022,Engineer,15,0
+532,39,Other,North,Bronze,1,80,Electronics,26/4/2022,Doctor,9,1
+533,47,Other,South,Gold,5,136,Home Goods,15/10/2023,Engineer,16,0
+534,35,Male,North,Gold,6,460,Electronics,12/3/2023,Artist,9,0
+535,22,Other,Central,Bronze,11,206,Home Goods,11/3/2023,Engineer,7,0
+536,29,Other,South,Silver,9,87,Clothing,25/9/2022,Retail,9,0
+537,32,Other,Central,Bronze,5,69,Books,28/12/2022,Engineer,14,0
+538,33,Female,Central,Bronze,7,1003,Clothing,18/9/2022,Teacher,7,0
+539,32,Female,East,Bronze,9,13,Health & Beauty,17/5/2022,Unemployed,7,0
+540,33,Other,North,Bronze,3,264,Clothing,20/1/2022,Retail,4,0
+541,37,Female,East,Gold,5,251,Books,5/11/2023,Engineer,6,0
+542,22,Female,East,Platinum,4,700,Clothing,13/4/2022,Teacher,8,0
+543,32,Female,Central,Gold,4,417,Books,20/7/2022,Artist,3,0
+544,50,Female,North,Bronze,5,558,Clothing,13/3/2023,Artist,10,0
+545,31,Male,Central,Bronze,5,871,Health & Beauty,7/2/2023,Retail,8,0
+546,30,Female,West,Bronze,4,700,Health & Beauty,25/7/2023,Manager,14,0
+547,45,Female,Central,Silver,4,91,Electronics,30/9/2023,Unemployed,8,0
+548,9,Female,Central,Silver,6,389,Health & Beauty,8/1/2023,Unemployed,14,0
+549,46,Female,North,Silver,8,268,Clothing,6/6/2022,Teacher,15,0
+550,28,Male,Central,Bronze,9,1166,Home Goods,6/10/2022,Unemployed,8,0
+551,36,Male,Central,Bronze,4,285,Books,3/9/2023,Engineer,9,0
+552,35,Other,East,Bronze,4,1309,Books,15/10/2022,Teacher,13,0
+553,44,Female,Central,Silver,4,31,Electronics,27/5/2023,Retail,11,0
+554,32,Female,North,Gold,7,67,Clothing,22/11/2023,Manager,11,0
+555,28,Other,East,Platinum,8,18,Health & Beauty,25/5/2023,Retail,6,0
+556,47,Male,South,Silver,7,592,Books,25/12/2023,Retail,3,0
+557,11,Other,South,Bronze,6,279,Books,25/2/2023,Doctor,3,0
+558,35,Male,Central,Silver,4,1518,Books,23/6/2023,Teacher,15,0
+559,21,Other,East,Bronze,5,265,Home Goods,18/4/2023,Teacher,8,0
+560,27,Other,West,Bronze,4,168,Home Goods,30/4/2022,Unemployed,7,0
+561,55,Female,South,Bronze,11,439,Home Goods,11/12/2023,Doctor,14,0
+562,34,Other,East,Bronze,4,900,Electronics,4/4/2023,Teacher,10,0
+563,36,Male,South,Gold,4,646,Electronics,21/6/2022,Doctor,9,0
+564,17,Male,East,Silver,8,608,Electronics,14/4/2022,Teacher,12,0
+565,27,Other,Central,Gold,4,27,Clothing,1/8/2022,Doctor,13,0
+566,36,Male,East,Gold,6,365,Electronics,23/9/2022,Unemployed,5,0
+567,38,Other,East,Platinum,8,539,Home Goods,13/7/2022,Teacher,10,0
+568,41,Female,North,Gold,1,1922,Clothing,18/8/2022,Doctor,7,0
+569,35,Female,Central,Bronze,6,479,Clothing,10/9/2022,Artist,8,0
+570,40,Female,West,Platinum,5,337,Electronics,13/12/2022,Manager,6,0
+571,39,Female,South,Bronze,6,456,Clothing,8/5/2023,Artist,11,0
+572,16,Other,East,Gold,1,728,Home Goods,19/5/2022,Artist,8,0
+573,35,Male,East,Bronze,10,142,Home Goods,25/3/2023,Artist,5,0
+574,42,Other,Central,Silver,4,690,Home Goods,22/12/2023,Artist,12,0
+575,40,Male,North,Bronze,0,292,Health & Beauty,21/12/2022,Doctor,13,1
+576,31,Other,South,Gold,5,17,Home Goods,7/9/2022,Artist,9,0
+577,26,Male,West,Bronze,7,70,Electronics,4/3/2023,Manager,9,0
+578,23,Male,East,Silver,6,489,Electronics,1/10/2022,Unemployed,6,0
+579,33,Other,North,Platinum,3,128,Books,21/5/2022,Retail,12,0
+580,46,Female,South,Gold,1,1245,Books,20/1/2023,Teacher,12,0
+581,15,Other,South,Bronze,7,729,Home Goods,3/9/2023,Doctor,11,0
+582,28,Female,West,Silver,7,1652,Clothing,3/12/2023,Unemployed,10,0
+583,23,Other,Central,Silver,6,5,Home Goods,2/9/2023,Unemployed,9,0
+584,42,Male,South,Gold,5,985,Electronics,16/1/2022,Unemployed,15,0
+585,29,Female,South,Bronze,6,1192,Clothing,5/11/2022,Retail,7,0
+586,30,Male,West,Bronze,3,1671,Clothing,13/11/2023,Unemployed,11,0
+587,32,Male,East,Gold,5,429,Electronics,30/10/2022,Engineer,9,0
+588,39,Male,Central,Bronze,5,288,Clothing,7/10/2022,Doctor,10,0
+589,31,Other,West,Silver,8,270,Health & Beauty,9/2/2023,Teacher,13,0
+590,4,Male,East,Platinum,3,321,Books,1/9/2022,Engineer,13,0
+591,40,Other,West,Silver,5,553,Books,7/3/2023,Manager,8,0
+592,39,Female,West,Bronze,5,797,Clothing,19/2/2023,Doctor,10,0
+593,32,Male,West,Silver,1,41,Clothing,12/4/2023,Unemployed,12,1
+594,24,Female,North,Gold,3,157,Clothing,6/3/2023,Unemployed,13,0
+595,38,Female,West,Silver,5,664,Books,4/3/2022,Teacher,15,0
+596,38,Other,East,Gold,2,310,Home Goods,1/2/2023,Doctor,4,0
+597,30,Female,East,Bronze,7,128,Home Goods,18/1/2022,Manager,12,0
+598,32,Other,South,Platinum,2,306,Home Goods,14/1/2022,Unemployed,10,0
+599,25,Other,North,Gold,4,861,Books,11/12/2023,Manager,9,0
+600,33,Female,East,Bronze,7,111,Books,24/3/2023,Unemployed,10,0
+601,19,Female,North,Silver,4,1244,Home Goods,31/3/2023,Manager,12,0
+602,39,Female,South,Gold,9,389,Health & Beauty,15/4/2022,Manager,13,0
+603,25,Other,North,Silver,10,283,Health & Beauty,3/1/2023,Artist,10,0
+604,37,Other,East,Silver,7,103,Electronics,14/8/2022,Doctor,6,0
+605,20,Female,Central,Gold,2,157,Health & Beauty,24/6/2022,Unemployed,9,1
+606,29,Other,North,Silver,5,215,Electronics,11/1/2022,Unemployed,9,0
+607,33,Female,North,Platinum,5,772,Books,8/3/2023,Manager,7,0
+608,18,Other,Central,Bronze,6,330,Health & Beauty,4/1/2024,Manager,10,0
+609,36,Other,West,Bronze,4,936,Books,3/10/2022,Engineer,14,0
+610,31,Male,Central,Bronze,9,907,Health & Beauty,30/4/2023,Doctor,7,0
+611,17,Male,West,Bronze,7,2080,Electronics,20/8/2023,Teacher,8,0
+612,21,Female,Central,Silver,5,844,Books,23/12/2022,Unemployed,6,0
+613,41,Male,North,Silver,7,17,Home Goods,29/6/2022,Manager,13,0
+614,43,Other,West,Silver,2,149,Books,10/12/2022,Teacher,11,1
+615,33,Female,West,Bronze,7,144,Electronics,14/2/2023,Unemployed,12,0
+616,39,Male,Central,Bronze,7,47,Home Goods,10/4/2023,Engineer,11,0
+617,37,Female,North,Bronze,2,108,Books,12/3/2022,Manager,10,1
+618,38,Female,North,Bronze,7,583,Home Goods,30/6/2022,Doctor,6,0
+619,47,Other,North,Bronze,4,74,Clothing,14/7/2023,Doctor,11,0
+620,19,Male,West,Gold,3,598,Electronics,11/6/2022,Manager,10,0
+621,41,Other,West,Gold,5,126,Health & Beauty,12/11/2022,Manager,7,0
+622,31,Female,West,Silver,3,1677,Books,29/9/2022,Doctor,14,0
+623,32,Female,North,Bronze,8,866,Home Goods,27/6/2023,Manager,5,0
+624,31,Female,South,Platinum,3,236,Books,21/12/2023,Manager,7,0
+625,31,Male,South,Bronze,8,854,Clothing,21/6/2023,Manager,7,0
+626,22,Other,West,Silver,4,286,Electronics,9/5/2022,Artist,11,0
+627,36,Other,West,Gold,9,1221,Home Goods,15/4/2022,Retail,10,0
+628,51,Male,North,Bronze,4,495,Books,9/9/2023,Doctor,9,0
+629,34,Other,North,Bronze,11,143,Books,23/12/2023,Retail,10,0
+630,34,Other,South,Bronze,5,27,Books,9/9/2022,Unemployed,8,0
+631,28,Female,South,Gold,2,165,Electronics,28/12/2023,Engineer,13,1
+632,33,Female,Central,Silver,4,770,Home Goods,20/6/2022,Teacher,15,0
+633,39,Female,North,Bronze,5,661,Books,13/9/2022,Teacher,9,0
+634,31,Male,East,Platinum,5,564,Home Goods,22/5/2023,Artist,11,0
+635,30,Female,Central,Gold,4,1665,Books,8/12/2023,Retail,15,0
+636,39,Other,North,Bronze,4,744,Home Goods,18/1/2022,Manager,14,0
+637,25,Male,East,Silver,2,1257,Books,1/10/2022,Doctor,6,0
+638,37,Other,East,Silver,5,448,Health & Beauty,21/1/2023,Doctor,6,0
+639,43,Male,West,Bronze,6,119,Electronics,21/3/2022,Engineer,11,0
+640,48,Other,West,Bronze,6,269,Books,23/4/2022,Artist,12,0
+641,34,Male,East,Silver,7,312,Clothing,1/9/2022,Manager,12,0
+642,48,Other,East,Bronze,6,129,Home Goods,19/11/2022,Teacher,10,0
+643,45,Female,Central,Gold,4,61,Home Goods,13/8/2023,Manager,13,0
+644,25,Male,East,Silver,6,1194,Electronics,28/2/2022,Teacher,7,0
+645,22,Other,West,Bronze,2,286,Electronics,20/12/2023,Unemployed,7,1
+646,31,Other,West,Silver,6,890,Health & Beauty,22/12/2022,Artist,10,0
+647,45,Other,West,Gold,9,1165,Home Goods,28/10/2022,Artist,9,0
+648,34,Other,South,Bronze,2,953,Clothing,20/9/2023,Artist,11,0
+649,28,Female,Central,Silver,5,110,Home Goods,15/6/2023,Engineer,13,0
+650,50,Female,Central,Bronze,6,328,Health & Beauty,16/1/2022,Engineer,5,0
+651,37,Male,Central,Platinum,3,222,Health & Beauty,26/3/2022,Manager,15,0
+652,11,Male,South,Silver,10,510,Books,11/7/2022,Engineer,11,0
+653,38,Other,Central,Bronze,2,305,Clothing,25/12/2023,Engineer,3,0
+654,40,Male,South,Silver,4,769,Health & Beauty,4/8/2023,Doctor,10,0
+655,37,Other,South,Platinum,7,47,Health & Beauty,2/1/2024,Manager,19,0
+656,39,Male,East,Gold,2,49,Health & Beauty,26/9/2023,Retail,8,1
+657,34,Male,South,Bronze,5,327,Health & Beauty,5/6/2022,Retail,8,0
+658,21,Other,North,Gold,3,357,Home Goods,6/6/2023,Retail,5,0
+659,31,Female,North,Silver,8,913,Electronics,28/7/2022,Unemployed,15,0
+660,25,Other,Central,Gold,6,661,Health & Beauty,7/11/2022,Doctor,10,0
+661,25,Female,North,Silver,4,457,Books,12/12/2023,Teacher,14,0
+662,22,Male,East,Platinum,8,712,Home Goods,13/12/2022,Unemployed,18,0
+663,39,Female,North,Bronze,8,36,Clothing,18/6/2023,Doctor,8,0
+664,35,Other,South,Platinum,5,231,Electronics,29/4/2023,Engineer,11,0
+665,30,Male,North,Bronze,2,697,Home Goods,27/11/2022,Unemployed,8,0
+666,28,Female,West,Platinum,6,275,Electronics,13/12/2023,Artist,8,0
+667,34,Female,East,Gold,6,1950,Clothing,13/9/2023,Engineer,10,0
+668,45,Other,Central,Platinum,4,288,Clothing,2/1/2023,Manager,8,0
+669,14,Male,West,Silver,3,195,Health & Beauty,19/2/2022,Retail,12,0
+670,38,Male,East,Platinum,5,1449,Health & Beauty,8/5/2023,Engineer,5,0
+671,29,Female,East,Bronze,8,797,Clothing,4/8/2022,Artist,6,0
+672,16,Female,East,Bronze,9,466,Health & Beauty,31/3/2023,Artist,8,0
+673,15,Female,North,Gold,10,487,Electronics,29/5/2023,Manager,11,0
+674,25,Male,North,Gold,6,273,Health & Beauty,22/4/2023,Engineer,13,0
+675,37,Female,West,Gold,4,173,Clothing,29/12/2022,Retail,7,0
+676,38,Female,West,Bronze,9,366,Books,14/3/2023,Engineer,12,0
+677,25,Male,South,Bronze,5,259,Health & Beauty,24/1/2022,Doctor,8,0
+678,45,Male,South,Silver,7,271,Health & Beauty,16/11/2023,Teacher,5,0
+679,49,Other,South,Platinum,6,2431,Health & Beauty,1/1/2024,Teacher,7,0
+680,38,Male,East,Bronze,6,586,Home Goods,5/12/2023,Teacher,7,0
+681,29,Male,Central,Silver,7,1152,Health & Beauty,3/5/2023,Retail,11,0
+682,46,Other,South,Bronze,5,605,Home Goods,17/2/2022,Engineer,11,0
+683,42,Male,West,Silver,8,737,Health & Beauty,9/3/2022,Doctor,14,0
+684,43,Other,Central,Bronze,5,122,Electronics,25/12/2023,Unemployed,11,0
+685,28,Male,South,Gold,2,768,Home Goods,26/10/2023,Doctor,12,0
+686,6,Other,North,Bronze,6,190,Clothing,4/1/2024,Teacher,18,0
+687,56,Female,South,Platinum,4,225,Books,16/7/2023,Engineer,10,0
+688,18,Female,South,Gold,2,200,Clothing,21/7/2022,Unemployed,8,1
+689,34,Female,East,Silver,4,16,Electronics,12/7/2022,Teacher,5,0
+690,58,Other,East,Gold,8,468,Books,10/9/2023,Retail,4,0
+691,38,Female,South,Bronze,1,1597,Books,29/4/2022,Artist,7,0
+692,44,Male,East,Silver,3,83,Home Goods,9/12/2023,Unemployed,14,0
+693,19,Other,North,Silver,4,1201,Clothing,2/8/2023,Doctor,9,0
+694,17,Male,Central,Platinum,6,145,Home Goods,19/11/2023,Manager,10,0
+695,29,Male,Central,Bronze,4,39,Electronics,19/5/2022,Doctor,11,0
+696,45,Male,East,Platinum,4,91,Electronics,13/10/2022,Retail,12,0
+697,31,Other,South,Silver,4,336,Home Goods,13/9/2022,Doctor,9,0
+698,27,Male,North,Bronze,4,258,Electronics,20/10/2023,Teacher,12,0
+699,36,Female,North,Silver,4,134,Clothing,14/2/2023,Engineer,16,0
+700,45,Other,West,Gold,9,332,Books,29/10/2022,Teacher,10,0
+701,20,Female,East,Gold,6,130,Electronics,14/4/2023,Unemployed,16,0
+702,22,Other,West,Silver,3,98,Electronics,12/7/2023,Teacher,14,0
+703,27,Male,East,Silver,7,514,Health & Beauty,22/10/2022,Retail,14,0
+704,45,Female,West,Silver,8,553,Home Goods,24/11/2023,Engineer,8,0
+705,37,Other,South,Bronze,6,141,Clothing,7/11/2022,Retail,13,0
+706,56,Male,East,Platinum,8,35,Electronics,17/1/2022,Unemployed,12,0
+707,44,Male,Central,Bronze,3,1379,Health & Beauty,4/3/2023,Retail,11,0
+708,34,Other,East,Silver,6,519,Home Goods,20/6/2022,Teacher,11,0
+709,47,Other,Central,Silver,3,551,Electronics,21/7/2023,Manager,10,0
+710,37,Other,West,Gold,9,271,Books,2/4/2023,Doctor,17,0
+711,27,Other,West,Gold,5,278,Health & Beauty,1/2/2022,Manager,11,0
+712,41,Female,South,Bronze,5,416,Electronics,8/10/2022,Unemployed,9,0
+713,28,Other,Central,Bronze,3,17,Books,27/8/2022,Engineer,15,0
+714,32,Male,South,Gold,9,547,Clothing,2/5/2023,Engineer,15,0
+715,48,Female,North,Bronze,6,825,Electronics,18/4/2023,Artist,5,0
+716,33,Male,Central,Platinum,2,1142,Books,20/12/2022,Teacher,9,0
+717,26,Male,East,Bronze,8,722,Books,27/11/2023,Teacher,8,0
+718,30,Other,Central,Silver,2,295,Electronics,14/11/2023,Artist,11,1
+719,45,Female,West,Silver,5,625,Home Goods,27/8/2022,Retail,8,0
+720,29,Other,South,Bronze,8,656,Books,24/6/2023,Artist,7,0
+721,31,Male,North,Bronze,3,238,Clothing,21/8/2022,Retail,11,0
+722,29,Other,South,Gold,3,406,Clothing,4/6/2023,Teacher,12,0
+723,36,Other,North,Bronze,11,570,Health & Beauty,17/2/2023,Retail,10,0
+724,31,Other,West,Bronze,3,605,Books,12/1/2022,Retail,11,0
+725,18,Other,South,Bronze,5,148,Health & Beauty,19/4/2023,Retail,6,0
+726,26,Other,East,Gold,3,339,Books,24/8/2022,Retail,8,0
+727,25,Other,East,Bronze,5,215,Clothing,8/3/2022,Teacher,7,0
+728,47,Female,South,Bronze,5,790,Health & Beauty,11/10/2023,Unemployed,11,0
+729,43,Other,South,Silver,4,23,Health & Beauty,17/11/2022,Teacher,9,0
+730,40,Female,North,Bronze,2,2900,Books,18/5/2023,Unemployed,8,0
+731,29,Other,South,Bronze,6,83,Health & Beauty,10/11/2022,Doctor,10,0
+732,26,Female,North,Platinum,4,278,Clothing,15/4/2022,Engineer,15,0
+733,29,Male,South,Gold,2,35,Health & Beauty,21/12/2023,Unemployed,14,1
+734,24,Female,South,Bronze,8,110,Health & Beauty,31/3/2023,Doctor,8,0
+735,59,Female,Central,Silver,5,44,Health & Beauty,13/1/2023,Manager,9,0
+736,12,Male,North,Bronze,12,964,Clothing,5/3/2023,Doctor,7,0
+737,40,Other,West,Silver,6,17,Home Goods,2/6/2022,Manager,12,0
+738,22,Other,East,Gold,8,23,Health & Beauty,17/12/2023,Doctor,13,0
+739,33,Female,North,Gold,3,1326,Books,15/4/2023,Teacher,13,0
+740,25,Other,South,Bronze,2,1927,Clothing,19/9/2023,Doctor,15,0
+741,23,Other,East,Bronze,4,299,Health & Beauty,7/6/2023,Doctor,7,0
+742,23,Male,South,Silver,5,109,Clothing,19/8/2023,Manager,9,0
+743,52,Other,West,Bronze,2,506,Electronics,28/3/2023,Doctor,12,0
+744,33,Other,North,Gold,9,109,Home Goods,6/8/2023,Manager,5,0
+745,27,Female,North,Bronze,4,197,Electronics,21/9/2023,Manager,10,0
+746,40,Other,South,Bronze,7,936,Health & Beauty,10/11/2023,Artist,14,0
+747,35,Other,South,Bronze,5,34,Clothing,16/1/2022,Engineer,11,0
+748,42,Female,North,Bronze,3,716,Health & Beauty,3/9/2023,Doctor,4,0
+749,16,Female,South,Silver,6,335,Health & Beauty,10/3/2023,Teacher,5,0
+750,38,Female,North,Gold,7,399,Books,3/1/2023,Artist,9,0
+751,42,Other,Central,Gold,2,879,Home Goods,19/5/2022,Manager,16,0
+752,18,Other,West,Silver,7,307,Books,11/10/2022,Engineer,12,0
+753,39,Other,North,Gold,5,55,Home Goods,19/6/2023,Doctor,11,0
+754,51,Other,West,Silver,1,511,Clothing,9/10/2022,Manager,5,0
+755,34,Other,West,Bronze,7,1105,Home Goods,28/11/2022,Artist,8,0
+756,43,Other,Central,Bronze,5,65,Home Goods,29/1/2022,Artist,5,0
+757,41,Female,North,Silver,1,1,Books,11/2/2022,Teacher,16,1
+758,27,Female,South,Platinum,5,596,Clothing,16/8/2022,Doctor,18,0
+759,35,Other,South,Silver,5,141,Home Goods,17/10/2022,Engineer,9,0
+760,19,Male,North,Bronze,4,3,Home Goods,7/11/2023,Teacher,5,0
+761,30,Female,North,Silver,4,192,Electronics,13/7/2023,Doctor,8,0
+762,37,Other,West,Gold,4,963,Home Goods,17/7/2023,Teacher,8,0
+763,42,Female,West,Bronze,4,549,Health & Beauty,10/3/2023,Doctor,3,0
+764,35,Male,East,Bronze,4,230,Health & Beauty,22/2/2022,Artist,9,0
+765,42,Female,West,Platinum,5,81,Books,23/6/2022,Manager,10,0
+766,23,Female,North,Gold,4,68,Home Goods,28/5/2023,Engineer,9,0
+767,33,Female,East,Silver,5,2339,Clothing,13/6/2023,Teacher,13,0
+768,35,Female,West,Gold,5,1017,Electronics,30/7/2022,Unemployed,10,0
+769,53,Other,South,Gold,3,1367,Electronics,20/3/2023,Artist,10,0
+770,32,Male,West,Bronze,4,425,Books,22/1/2022,Unemployed,10,0
+771,30,Other,West,Silver,6,1604,Books,25/2/2023,Teacher,20,0
+772,35,Female,West,Gold,5,336,Home Goods,30/10/2022,Unemployed,16,0
+773,25,Female,West,Bronze,5,21,Books,26/4/2022,Teacher,16,0
+774,36,Female,Central,Bronze,3,126,Electronics,15/5/2023,Retail,9,0
+775,31,Male,North,Platinum,5,29,Electronics,3/2/2022,Teacher,15,0
+776,17,Male,East,Silver,3,583,Health & Beauty,1/10/2022,Unemployed,12,0
+777,34,Other,North,Silver,5,213,Books,2/10/2022,Unemployed,8,0
+778,31,Female,West,Bronze,3,18,Books,22/5/2022,Artist,14,0
+779,18,Male,South,Gold,2,1887,Electronics,31/5/2022,Retail,12,0
+780,34,Female,East,Platinum,4,350,Home Goods,16/12/2023,Unemployed,13,0
+781,49,Other,North,Silver,2,626,Electronics,10/6/2023,Doctor,6,0
+782,40,Other,South,Silver,4,142,Home Goods,27/9/2023,Retail,6,0
+783,41,Male,West,Platinum,7,311,Home Goods,28/12/2022,Engineer,8,0
+784,21,Other,South,Bronze,2,594,Books,14/4/2023,Teacher,7,0
+785,39,Male,North,Bronze,6,165,Books,7/7/2022,Teacher,10,0
+786,36,Female,East,Silver,4,68,Home Goods,7/6/2022,Retail,5,0
+787,40,Male,North,Bronze,2,20,Health & Beauty,2/8/2022,Retail,9,1
+788,39,Other,South,Platinum,9,60,Clothing,15/7/2023,Manager,9,0
+789,21,Female,South,Silver,5,177,Clothing,10/4/2023,Retail,7,0
+790,34,Other,North,Gold,8,129,Books,24/1/2022,Manager,15,0
+791,27,Female,North,Gold,6,428,Books,2/6/2023,Manager,8,0
+792,34,Female,North,Bronze,6,131,Books,25/8/2023,Engineer,11,0
+793,26,Female,South,Bronze,6,65,Books,1/6/2022,Manager,9,0
+794,48,Female,Central,Silver,4,333,Home Goods,31/8/2022,Engineer,9,0
+795,26,Other,North,Gold,4,25,Books,10/8/2022,Unemployed,7,0
+796,26,Male,West,Silver,4,635,Home Goods,20/6/2023,Engineer,7,0
+797,35,Female,South,Silver,4,325,Home Goods,24/7/2023,Manager,14,0
+798,24,Other,Central,Silver,4,973,Health & Beauty,19/3/2023,Doctor,10,0
+799,30,Other,East,Silver,5,1686,Electronics,26/3/2022,Retail,11,0
+800,26,Other,Central,Gold,6,1169,Books,22/4/2023,Doctor,9,0
+801,49,Male,East,Silver,5,504,Electronics,7/1/2023,Unemployed,5,0
+802,42,Other,Central,Bronze,5,148,Home Goods,5/8/2023,Doctor,5,0
+803,34,Other,South,Platinum,11,484,Health & Beauty,11/3/2023,Doctor,11,0
+804,31,Male,West,Gold,3,183,Electronics,28/5/2023,Doctor,10,0
+805,44,Other,South,Silver,3,310,Health & Beauty,1/6/2022,Teacher,9,0
+806,39,Other,Central,Silver,5,1093,Home Goods,2/3/2022,Doctor,14,0
+807,39,Male,Central,Bronze,4,333,Books,4/2/2022,Unemployed,3,0
+808,34,Male,East,Gold,6,380,Electronics,27/12/2023,Doctor,9,0
+809,18,Male,North,Silver,6,663,Books,23/12/2023,Teacher,8,0
+810,33,Female,South,Bronze,6,1028,Electronics,5/7/2022,Unemployed,9,0
+811,29,Male,East,Gold,6,426,Home Goods,9/9/2023,Unemployed,7,0
+812,41,Female,Central,Bronze,3,395,Books,17/10/2022,Doctor,12,0
+813,45,Female,Central,Bronze,4,309,Electronics,5/9/2023,Artist,7,0
+814,28,Male,North,Bronze,7,691,Books,15/1/2022,Manager,9,0
+815,39,Female,South,Bronze,3,341,Books,15/5/2023,Engineer,9,0
+816,52,Other,Central,Silver,2,866,Books,13/4/2023,Manager,11,0
+817,28,Other,West,Gold,4,298,Books,8/10/2023,Teacher,16,0
+818,51,Male,North,Silver,4,714,Clothing,23/8/2023,Artist,6,0
+819,26,Female,North,Silver,2,436,Clothing,16/1/2023,Teacher,4,0
+820,35,Other,East,Bronze,5,130,Health & Beauty,11/7/2023,Manager,15,0
+821,34,Female,East,Gold,5,783,Electronics,16/7/2022,Teacher,9,0
+822,35,Female,East,Bronze,4,240,Health & Beauty,10/5/2022,Artist,11,0
+823,26,Other,Central,Gold,5,128,Clothing,21/8/2023,Unemployed,8,0
+824,29,Male,North,Bronze,4,155,Clothing,7/7/2023,Manager,8,0
+825,28,Female,South,Gold,5,593,Health & Beauty,28/10/2022,Doctor,8,0
+826,38,Other,West,Platinum,8,406,Electronics,26/12/2023,Unemployed,10,0
+827,38,Male,Central,Gold,4,354,Health & Beauty,20/10/2023,Unemployed,16,0
+828,57,Female,Central,Bronze,4,1799,Health & Beauty,15/5/2023,Manager,10,0
+829,48,Female,South,Bronze,1,373,Electronics,12/5/2023,Artist,11,0
+830,29,Female,Central,Bronze,3,14,Health & Beauty,20/6/2022,Manager,16,0
+831,38,Female,South,Platinum,4,608,Home Goods,9/7/2023,Manager,12,0
+832,44,Male,South,Bronze,3,391,Books,29/10/2022,Doctor,8,0
+833,35,Female,North,Gold,5,140,Clothing,8/1/2022,Engineer,11,0
+834,34,Other,Central,Gold,0,1763,Books,22/9/2023,Artist,9,0
+835,35,Other,Central,Silver,4,121,Clothing,20/10/2023,Manager,7,0
+836,43,Other,West,Bronze,9,746,Electronics,28/1/2023,Unemployed,8,0
+837,26,Male,South,Silver,3,136,Books,20/8/2022,Unemployed,11,0
+838,31,Other,West,Platinum,5,40,Clothing,10/9/2022,Teacher,13,0
+839,39,Female,West,Silver,4,809,Clothing,15/1/2023,Unemployed,9,0
+840,38,Female,West,Bronze,8,628,Clothing,10/10/2023,Artist,13,0
+841,37,Other,East,Gold,5,549,Home Goods,17/1/2022,Teacher,6,0
+842,31,Male,North,Silver,2,1017,Electronics,29/11/2023,Engineer,4,0
+843,44,Male,South,Bronze,4,0,Health & Beauty,25/3/2023,Artist,12,0
+844,56,Female,Central,Gold,5,744,Books,15/7/2023,Teacher,9,0
+845,39,Female,East,Gold,4,393,Electronics,27/5/2023,Unemployed,11,0
+846,33,Other,East,Bronze,6,181,Books,21/2/2022,Retail,3,0
+847,42,Male,East,Bronze,1,338,Home Goods,29/3/2022,Artist,18,0
+848,29,Other,Central,Bronze,8,321,Health & Beauty,24/7/2022,Retail,11,0
+849,27,Female,East,Gold,5,1069,Health & Beauty,24/8/2023,Doctor,16,0
+850,35,Female,East,Bronze,3,237,Clothing,4/2/2023,Retail,13,0
+851,9,Other,Central,Platinum,1,1478,Books,28/9/2023,Engineer,15,0
+852,23,Male,North,Silver,6,22,Books,21/10/2022,Teacher,7,0
+853,31,Female,East,Bronze,4,1209,Home Goods,18/12/2022,Engineer,11,0
+854,21,Female,South,Bronze,5,441,Clothing,8/4/2023,Engineer,3,0
+855,24,Male,North,Silver,1,884,Clothing,4/5/2023,Doctor,7,0
+856,30,Female,Central,Gold,3,435,Books,3/2/2022,Unemployed,10,0
+857,18,Male,North,Silver,4,20,Electronics,18/7/2023,Teacher,8,0
+858,30,Male,North,Silver,5,84,Books,26/6/2023,Retail,9,0
+859,29,Female,West,Silver,8,1202,Books,22/1/2022,Artist,16,0
+860,35,Other,Central,Gold,8,890,Electronics,30/10/2023,Doctor,8,0
+861,46,Female,North,Bronze,5,1911,Books,21/9/2022,Unemployed,16,0
+862,36,Female,Central,Bronze,9,176,Electronics,3/6/2022,Artist,9,0
+863,35,Female,East,Gold,7,40,Home Goods,19/2/2023,Teacher,6,0
+864,35,Female,Central,Gold,4,1591,Electronics,17/2/2023,Engineer,11,0
+865,37,Other,North,Gold,3,115,Electronics,20/6/2023,Artist,6,0
+866,24,Other,Central,Silver,3,119,Health & Beauty,14/4/2022,Retail,8,0
+867,33,Other,West,Silver,4,130,Clothing,18/1/2023,Unemployed,11,0
+868,38,Male,West,Bronze,4,216,Clothing,27/9/2023,Doctor,8,0
+869,21,Other,West,Bronze,8,417,Home Goods,9/6/2022,Unemployed,13,0
+870,43,Male,Central,Bronze,2,362,Health & Beauty,5/9/2023,Retail,12,0
+871,45,Female,North,Gold,2,33,Home Goods,2/6/2022,Engineer,14,1
+872,28,Other,East,Bronze,9,138,Clothing,15/10/2023,Teacher,10,0
+873,32,Other,South,Gold,3,151,Home Goods,2/5/2023,Doctor,12,0
+874,26,Other,East,Silver,6,544,Books,24/8/2023,Engineer,9,0
+875,41,Other,West,Bronze,6,1503,Health & Beauty,4/12/2023,Unemployed,10,0
+876,24,Other,North,Silver,5,687,Books,11/5/2023,Retail,11,0
+877,32,Female,Central,Silver,2,571,Electronics,31/8/2023,Unemployed,11,0
+878,26,Other,Central,Silver,6,76,Home Goods,22/12/2023,Retail,13,0
+879,35,Male,North,Bronze,3,1119,Books,8/1/2023,Retail,8,0
+880,17,Male,North,Gold,7,202,Home Goods,24/3/2023,Retail,10,0
+881,48,Other,West,Silver,2,79,Health & Beauty,9/9/2022,Retail,15,1
+882,25,Male,West,Bronze,3,13,Home Goods,7/5/2023,Engineer,12,0
+883,35,Other,North,Silver,4,100,Books,23/11/2022,Manager,11,0
+884,32,Female,West,Gold,4,969,Electronics,14/11/2023,Teacher,12,0
+885,27,Male,South,Bronze,2,147,Electronics,17/10/2022,Manager,13,1
+886,26,Other,Central,Silver,6,170,Electronics,5/3/2023,Engineer,16,0
+887,44,Male,West,Silver,6,461,Books,19/10/2023,Doctor,12,0
+888,29,Other,West,Silver,4,628,Home Goods,8/12/2022,Artist,10,0
+889,37,Male,West,Bronze,4,1953,Electronics,14/3/2022,Manager,8,0
+890,26,Female,North,Bronze,6,823,Electronics,7/2/2023,Artist,12,0
+891,28,Male,South,Bronze,3,472,Books,29/11/2023,Manager,7,0
+892,39,Male,West,Bronze,9,34,Electronics,30/9/2023,Retail,5,0
+893,44,Male,South,Silver,6,132,Home Goods,10/10/2022,Doctor,7,0
+894,33,Male,South,Silver,4,340,Electronics,19/12/2022,Unemployed,6,0
+895,20,Other,North,Bronze,3,201,Books,17/12/2023,Engineer,11,0
+896,54,Female,West,Gold,5,229,Clothing,26/11/2023,Artist,7,0
+897,26,Female,South,Silver,3,27,Health & Beauty,26/3/2022,Artist,16,0
+898,19,Male,West,Bronze,2,660,Health & Beauty,13/4/2023,Artist,8,0
+899,60,Male,West,Bronze,3,238,Home Goods,17/4/2022,Artist,8,0
+900,30,Female,East,Platinum,6,974,Electronics,23/10/2022,Engineer,7,0
+901,20,Female,Central,Silver,5,1221,Clothing,6/12/2022,Artist,7,0
+902,28,Female,West,Silver,6,255,Clothing,9/5/2023,Engineer,9,0
+903,38,Female,North,Gold,7,442,Health & Beauty,23/4/2023,Retail,10,0
+904,36,Male,Central,Gold,4,253,Health & Beauty,10/2/2023,Engineer,10,0
+905,26,Female,North,Gold,5,372,Home Goods,13/9/2023,Engineer,11,0
+906,53,Male,North,Bronze,5,142,Books,6/10/2023,Manager,14,0
+907,29,Male,North,Gold,2,595,Clothing,28/8/2022,Artist,11,0
+908,23,Female,East,Silver,3,329,Home Goods,3/3/2023,Artist,8,0
+909,44,Other,Central,Bronze,6,347,Books,9/3/2023,Unemployed,12,0
+910,48,Male,North,Bronze,6,150,Health & Beauty,10/11/2022,Manager,13,0
+911,26,Female,East,Silver,8,692,Clothing,20/11/2022,Engineer,8,0
+912,20,Male,Central,Bronze,8,542,Health & Beauty,11/7/2022,Retail,10,0
+913,45,Other,North,Bronze,8,1018,Electronics,13/11/2023,Doctor,12,0
+914,14,Female,North,Silver,8,735,Health & Beauty,20/4/2022,Artist,10,0
+915,22,Male,West,Gold,6,1186,Books,21/3/2023,Unemployed,9,0
+916,44,Other,Central,Bronze,4,696,Electronics,23/5/2022,Unemployed,11,0
+917,34,Other,South,Gold,6,1718,Health & Beauty,20/7/2023,Artist,9,0
+918,32,Male,North,Silver,9,34,Books,28/1/2022,Doctor,12,0
+919,38,Female,North,Bronze,2,1295,Electronics,1/6/2022,Teacher,8,0
+920,33,Female,North,Silver,6,45,Electronics,18/3/2022,Artist,7,0
+921,22,Male,West,Silver,1,397,Clothing,13/2/2023,Engineer,9,0
+922,47,Other,West,Bronze,5,781,Books,18/4/2023,Retail,13,0
+923,48,Other,West,Silver,4,169,Books,9/3/2023,Artist,19,0
+924,37,Other,Central,Bronze,7,347,Health & Beauty,3/6/2023,Doctor,11,0
+925,35,Other,East,Silver,4,514,Clothing,31/1/2022,Engineer,9,0
+926,58,Male,Central,Bronze,1,560,Health & Beauty,27/9/2023,Manager,11,0
+927,32,Other,East,Bronze,1,1144,Electronics,26/7/2023,Engineer,3,0
+928,32,Male,South,Silver,3,591,Home Goods,9/4/2022,Manager,16,0
+929,38,Female,Central,Platinum,2,103,Clothing,15/3/2022,Manager,13,1
+930,49,Female,North,Platinum,2,25,Clothing,8/6/2022,Teacher,12,1
+931,50,Other,South,Silver,3,472,Clothing,5/4/2022,Retail,12,0
+932,32,Other,North,Bronze,4,482,Clothing,14/3/2023,Manager,8,0
+933,38,Other,East,Silver,8,1183,Electronics,1/12/2023,Retail,5,0
+934,21,Female,West,Silver,4,101,Home Goods,16/11/2022,Engineer,15,0
+935,31,Male,East,Bronze,6,896,Books,10/10/2022,Manager,7,0
+936,26,Male,Central,Gold,4,435,Home Goods,11/2/2023,Doctor,9,0
+937,24,Male,South,Bronze,6,591,Clothing,10/5/2023,Manager,7,0
+938,51,Other,South,Platinum,6,106,Home Goods,7/11/2022,Manager,13,0
+939,27,Male,South,Gold,1,499,Clothing,25/1/2022,Teacher,10,0
+940,29,Other,East,Gold,2,486,Electronics,16/1/2022,Artist,10,0
+941,38,Female,Central,Bronze,1,546,Electronics,17/4/2022,Manager,4,0
+942,47,Male,West,Platinum,7,243,Health & Beauty,28/4/2023,Engineer,10,0
+943,39,Other,South,Platinum,8,176,Health & Beauty,14/3/2022,Teacher,5,0
+944,62,Male,West,Bronze,4,30,Health & Beauty,29/1/2023,Unemployed,7,0
+945,34,Female,South,Silver,4,70,Health & Beauty,28/11/2022,Unemployed,9,0
+946,37,Male,South,Gold,7,153,Home Goods,10/11/2023,Doctor,5,0
+947,37,Male,East,Bronze,11,135,Books,8/8/2023,Unemployed,8,0
+948,49,Female,North,Gold,2,213,Books,1/6/2022,Unemployed,13,1
+949,40,Other,South,Bronze,7,20,Books,4/5/2023,Artist,12,0
+950,33,Other,North,Silver,4,467,Health & Beauty,20/1/2022,Engineer,7,0
+951,25,Other,East,Bronze,4,681,Health & Beauty,15/7/2023,Retail,10,0
+952,37,Male,South,Bronze,3,325,Home Goods,23/6/2022,Retail,13,0
+953,49,Male,Central,Bronze,4,238,Electronics,2/8/2022,Doctor,4,0
+954,30,Other,South,Bronze,8,235,Books,15/2/2022,Teacher,9,0
+955,40,Other,South,Silver,9,634,Clothing,2/3/2022,Retail,10,0
+956,37,Male,Central,Bronze,6,133,Home Goods,1/1/2024,Doctor,13,0
+957,43,Other,Central,Bronze,3,272,Home Goods,4/10/2022,Artist,7,0
+958,26,Other,South,Platinum,5,88,Electronics,18/11/2023,Manager,6,0
+959,58,Male,West,Silver,4,424,Clothing,28/10/2022,Artist,12,0
+960,22,Female,East,Platinum,1,152,Electronics,13/11/2023,Artist,8,1
+961,31,Male,West,Platinum,3,279,Electronics,17/12/2023,Doctor,10,0
+962,44,Other,South,Bronze,5,464,Home Goods,4/7/2022,Retail,11,0
+963,37,Other,North,Gold,5,1172,Clothing,9/10/2023,Engineer,9,0
+964,43,Female,Central,Bronze,6,602,Home Goods,21/1/2023,Artist,10,0
+965,30,Female,Central,Silver,2,496,Electronics,16/4/2022,Retail,5,0
+966,34,Male,North,Bronze,1,351,Clothing,21/8/2023,Doctor,14,0
+967,35,Female,East,Bronze,5,93,Electronics,21/2/2023,Unemployed,5,0
+968,50,Other,East,Silver,4,1091,Home Goods,3/8/2022,Doctor,8,0
+969,41,Other,South,Gold,9,785,Home Goods,9/2/2022,Retail,11,0
+970,42,Other,South,Platinum,4,708,Health & Beauty,7/6/2023,Retail,10,0
+971,28,Other,Central,Bronze,2,309,Clothing,28/12/2022,Retail,7,0
+972,44,Female,North,Silver,2,152,Clothing,26/3/2022,Retail,10,1
+973,37,Other,North,Gold,5,15,Clothing,14/3/2023,Manager,10,0
+974,48,Other,West,Bronze,2,187,Electronics,25/5/2022,Unemployed,8,1
+975,55,Other,East,Silver,8,154,Books,14/5/2022,Teacher,11,0
+976,31,Male,East,Platinum,4,1178,Health & Beauty,16/4/2022,Retail,10,0
+977,30,Male,South,Gold,6,228,Electronics,1/11/2022,Manager,11,0
+978,26,Other,South,Bronze,8,858,Electronics,1/1/2024,Doctor,11,0
+979,33,Female,East,Silver,6,9,Books,1/2/2023,Unemployed,7,0
+980,31,Female,West,Silver,3,1966,Home Goods,26/12/2022,Manager,14,0
+981,38,Male,South,Platinum,4,185,Electronics,25/9/2023,Unemployed,9,0
+982,33,Male,South,Silver,8,199,Electronics,30/10/2022,Manager,11,0
+983,31,Female,West,Silver,5,377,Clothing,14/11/2022,Artist,11,0
+984,45,Male,Central,Bronze,7,359,Books,27/9/2022,Unemployed,5,0
+985,25,Male,East,Bronze,3,26,Health & Beauty,19/4/2023,Manager,13,0
+986,39,Other,North,Gold,1,222,Health & Beauty,31/3/2022,Unemployed,13,1
+987,30,Female,North,Bronze,4,48,Clothing,21/6/2022,Doctor,13,0
+988,42,Other,North,Bronze,3,161,Books,23/4/2022,Retail,6,0
+989,48,Male,North,Silver,6,97,Home Goods,8/11/2022,Unemployed,6,0
+990,31,Male,North,Silver,4,14,Books,21/3/2022,Unemployed,8,0
+991,39,Male,Central,Gold,5,701,Electronics,5/3/2022,Artist,16,0
+992,36,Male,East,Silver,11,533,Electronics,7/7/2023,Artist,15,0
+993,27,Female,South,Gold,5,588,Health & Beauty,28/2/2022,Teacher,10,0
+994,37,Female,North,Gold,2,857,Health & Beauty,6/7/2022,Unemployed,13,0
+995,37,Female,West,Bronze,7,886,Health & Beauty,7/5/2023,Manager,5,0
+996,39,Female,North,Bronze,4,618,Health & Beauty,15/1/2022,Retail,13,0
+997,33,Other,Central,Gold,8,15,Clothing,6/6/2022,Engineer,6,0
+998,35,Other,East,Platinum,7,411,Clothing,5/3/2023,Unemployed,9,0
+999,23,Other,West,Gold,1,709,Clothing,15/2/2023,Teacher,5,0
+1000,31,Male,North,Silver,8,473,Books,24/12/2022,Artist,5,0
