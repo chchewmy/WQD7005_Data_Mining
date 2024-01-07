@@ -5,7 +5,8 @@ patterns of customer churn and to inform strategic business decisions.
 
 Objective: 
 The case study aims to assess the ability to apply decision tree and ensemble methods in a 
-practical context, demonstrating the understanding of the concepts and to derive 
+practical context by applying Bagging and Boosting, using the Random Forest algorithm 
+as a Bagging example, demonstrating the understanding of the concepts and to derive 
 meaningful business insights from data analysis.
 
 Dataset Structure: 
