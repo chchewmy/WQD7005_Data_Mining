@@ -4,8 +4,8 @@ Enterprise Miner, various predictive modelling techniques have been explored to 
 patterns of customer churn and to inform strategic business decisions.
 
 Objective: 
-The case study aims to assess students' ability to apply decision tree and ensemble methods in a 
-practical context, demonstrating their understanding of the concepts and their ability to derive 
+The case study aims to assess the ability to apply decision tree and ensemble methods in a 
+practical context, demonstrating the understanding of the concepts and to derive 
 meaningful business insights from data analysis.
 
 Dataset Structure: 
